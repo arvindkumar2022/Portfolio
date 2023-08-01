@@ -13,4 +13,4 @@ them by finding meaningful information and also importing different datasets fro
 
 To open the .ipynb files, just click on them and it will open in preview.
 
-To open the Excel notebook, simply click and open raw file to open Excel in the browser or download the file and open it in the Excel Desktop app. Navigate to the Calculator sheet of the dataset, and experiment around the parameters on the Pivot Chart to see how the calculor works.
+To open the Excel notebook, simply click and open raw file to open Excel in the browser or download the file and open it in the Excel Desktop app. Navigate to the Calculator sheet of the dataset, and experiment around the parameters on the Pivot Chart to see how the calculator works.
